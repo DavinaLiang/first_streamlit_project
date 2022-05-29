@@ -1,4 +1,6 @@
-streamlit
+altair
 pandas
-pyplot
+streamlit
 matplotlib
+plotly==5.4.0
+plotly_express==0.4.0
