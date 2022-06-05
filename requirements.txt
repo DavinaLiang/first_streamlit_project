@@ -4,5 +4,5 @@ streamlit
 matplotlib
 plotly==5.4.0
 plotly_express==0.4.0
---upgrade mplfinance
+mplfinance
 mpl_finance
